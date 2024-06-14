@@ -1,5 +1,5 @@
 /**
- created by : 
+ created by : cidi mohamed mostepha
  link : https://codeforces.com/problemset/problem/1490/D
  rating : 1200
 */
