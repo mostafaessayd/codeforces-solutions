@@ -1,6 +1,6 @@
 /**
 created by : cidi mohamed mostepha
-link : https://codeforces.com/contest/981/problem/C
+link : https://codeforces.com/contest/698/problem/A
 rating : 1400
 */
 
